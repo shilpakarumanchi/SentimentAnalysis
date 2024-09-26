@@ -14,6 +14,7 @@ I have obtained global customer review data for British Airways from 2016 to 202
 - Noticed '-1' values for many ratings. I replaced -1 ratings by the average rating within each service provided.
 - I generated a new variable "Average Rating" that shows the average of all the 6 services provided by the airline.
 - Explored number of reviews by Country
+- [Link to view complete python code] (BA_cleaning.ipynb)
 ## Analysis of the data set
 ## Results
 ## Recommendations
