@@ -19,7 +19,7 @@ I have obtained global customer review data for British Airways from 2016 to 202
 - Explored the start and end date of the reviews.
 - Explored number of reviews by Country, by Continent & by Aircraft type.
 - Explored summary of the ratings for each of the 6 services and overall rating by Continent, by Aircraft type & by seat type.
-- [Link to view complete python code](https://github.com/shilpakarumanchi/python/blob/main/BA_cleaning.ipynb)
+- [Python code](https://github.com/shilpakarumanchi/python/blob/main/BA_cleaning.ipynb)
 
 ## Dashboard Generation
 I have generated an interactive dashboard in Tableau that consists of:
@@ -30,21 +30,19 @@ I have generated an interactive dashboard in Tableau that consists of:
 - [Tableau dashboard](https://public.tableau.com/app/profile/shilpa.ln.karumanchi/viz/BA_customerreviews/Dashboard32?publish=yes)
   
 ## Results
-The data for collected duirng a period of 7 years starting from March 2016 to October 2023.
- 42 Countries have <10 reviews, during 7 years.
-# 24 Countries have <5 reviews.
-#Hence I have grouped the Countries by Continent.
-#Highest number of reviews were provided from Europe with 1009 reviews followed by North America with 168 reviews.
-#Lowest number of reviews were provided from South America  with 5 reviews followed by Africa with 22 reviews. 
-#There should be a minimum sample size of 30 inorder to be able to produce any inference.
-#Asia has the highest rating of 3.32, followed by Europe and NA with ratings of 2.92 and 2.88.
-#Oceania (Australia & New Zealand) has the lowest average ratings of 2.58.
-On average the services provided in first class received higher ratings than the other class types.
-#Economy class has the least ratings in all service categories.
-The air lines can work on the quality of food and beverages and entertainment services provided to Economy and preminum economy classes 
-#to improve the ratings.
-#In addition the quality of all the services can be improved in Oceania countries (Australia & New Zealand), for better ratings.
+- The data was collected duirng a period of 7 years starting from March 2016 to October 2023.
+- 42 Countries have <10 reviews & 24 Countries have <5 reviews. Hence I have grouped the Countries by Continent.
+- Highest number of reviews were provided from Europe with 1009 reviews followed by North America with 168 reviews.
+- Lowest number of reviews were provided from South America  with 5 reviews followed by Africa with 22 reviews. 
+- There should be a minimum sample size of 30 inorder to be able to produce any inference.
+- Asia has the highest overall rating of 3.32, followed by Europe and North America with ratings of 2.92 and 2.88.
+- Oceania (Australia & New Zealand) has the lowest average ratings of 2.58.
+- On average the services provided in first class received higher ratings than the other class types.
+- Economy class has the least ratings in all service categories.
+
 ## Recommendations
+- The air lines can work on the quality of food and beverages and entertainment services provided to Economy and preminum economy classes to improve the ratings.
+- In addition the quality of all the services can be improved in Oceania countries (Australia & New Zealand), for better ratings.
 
 
 
