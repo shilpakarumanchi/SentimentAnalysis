@@ -25,7 +25,7 @@ I have obtained global customer review data for British Airways from 2016 to 202
 I have generated an interactive dashboard in Tableau that consists of:
 - Time series line graphs displaying the average ratings & numbero of ratings per month for each of the 6 services and overall rating.
 - An interactive map that shows the average rating individually for 6 services and overall average rating by Continent.
-- 2 bar graphs showing the ratings by COntinent & by type of aircraft.
+- 2 bar graphs showing the ratings by Continent & by type of aircraft.
 - Summary ratings on the top for each of the 6 services and the overall rating.
 - [Click here to view Tableau dashboard](https://public.tableau.com/app/profile/shilpa.ln.karumanchi/viz/BA_customerreviews/Dashboard32?publish=yes)
   
@@ -36,6 +36,8 @@ I have generated an interactive dashboard in Tableau that consists of:
 - Lowest number of reviews were provided from South America  (5 reviews) followed by Africa (22 reviews). 
 - Asia has the highest overall rating of 3.32, followed by Europe and North America with overall ratings of 2.92 and 2.88.
 - Oceania (Australia & New Zealand) has the lowest average ratings of 2.58.
+- Among the services provided by the air line, highest rating is assoiated with cabin staff service, followed by ground service.
+- Lowest rating is associated with food and beverages followed by entertainment.
 - Aircraft A380 has hihgest overall rating of 3.2 and A320 is associated with teh least overall rating of 2.7.
 - On average the services provided in first class received higher ratings than the other class types.
 - Economy class has the least ratings (2.7) with respect to all the services, followed by Premium Economy class (2.8).
