@@ -11,41 +11,41 @@ I have obtained global customer review data for British Airways from 2016 to 202
 - Tableau
   
 ## Data Cleaning
-- I have merged the review data set with another data set taht had onformation on Continents where each country belongs.
+- I have merged the review data set with another data set that had information on the Continents where each country belongs.
 - I have noticed '-1' values for many ratings. I replaced -1 ratings by the average rating within each service provided.
 - I have generated a new variable "Average Rating" that shows the average of all the 6 services provided by the airline.
   
 ## Data Exploration & Analysis 
 - Explored the start and end date of the reviews.
 - Explored number of reviews by Country, by Continent & by Aircraft type.
-- Explored summary of the ratings for each of the 6 services and overall rating by Continent, by Aircraft type & by seat type.
-- [Click here to view Python code](https://github.com/shilpakarumanchi/python/blob/main/BA_cleaning.ipynb)
+- Explored summary of the ratings for each of the 6 services and Average rating by Continent, by Aircraft type & by seat type in Python.
+- [Python code](https://github.com/shilpakarumanchi/python/blob/main/BA_cleaning.ipynb)
 
 ## Dashboard
 I have generated an interactive dashboard in Tableau that consists of:
-- Time series line graphs displaying the average ratings & numbero of ratings per month for each of the 6 services and overall rating.
+- Time series analysis displaying the average ratings & number of ratings per month for each of the 6 services and Average rating.
 - An interactive map that shows the average rating individually for 6 services and overall average rating by Continent.
 - 2 bar graphs showing the ratings by Continent & by type of aircraft.
 - Summary ratings on the top for each of the 6 services and the overall rating.
-- [Click here to view Tableau dashboard](https://public.tableau.com/app/profile/shilpa.ln.karumanchi/viz/BA_customerreviews/Dashboard32?publish=yes)
+- [Tableau dashboard](https://public.tableau.com/app/profile/shilpa.ln.karumanchi/viz/BA_customerreviews/Dashboard32?publish=yes)
   
 ## Results
 - There are a total of 1324 reviews collected from 56 Countries, duirng a period of 7 years starting from March 2016 to October 2023.
-- Aming 56 Countries, 42 Countries have <10 reviews & 24 Countries have <5 reviews. Hence I have grouped the Countries by Continent.
+- Among the 56 Countries, 42 Countries have <10 reviews & 24 Countries have <5 reviews. Hence, I have grouped the Countries by Continent.
 - Highest number of reviews were provided from Europe (1009 reviews) followed by North America (168 reviews).
 - Lowest number of reviews were provided from South America  (5 reviews) followed by Africa (22 reviews). 
 - Asia has the highest overall rating of 3.32, followed by Europe and North America with overall ratings of 2.92 and 2.88.
 - Oceania (Australia & New Zealand) has the lowest average ratings of 2.58.
 - Among the services provided by the air line, highest rating is assoiated with cabin staff service, followed by ground service.
 - Lowest rating is associated with food and beverages followed by entertainment.
-- Aircraft A380 has hihgest overall rating of 3.2 and A320 is associated with teh least overall rating of 2.7.
+- Aircraft A380 has hihgest Average rating of 3.2 and A320 is associated with the lowest Average rating of 2.7.
 - On average the services provided in first class received higher ratings than the other class types.
 - Economy class has the least ratings (2.7) with respect to all the services, followed by Premium Economy class (2.8).
 
 ## Recommendations
-- In statistics, there has to be a minimum sample size of 30 inorder to be able to make any inference. Hence, it is advisable to avoid inferences with resepct to Sounth AMerica and Africa, due to very low sample size.
-- From line graphs, we can notice that there is no difference in ratings before and after Covid-19.
-- However, we notice very low number of reviews when Covid has started in Apr 2020 to Sept 2021.
+- In statistics, there has to be a minimum sample size of 30 inorder to be able to make any inference. Hence, it is advisable to avoid inferences with resepct to Sounth America and Africa, due to very low sample size.
+- From the time series analysis, we can notice that there is no difference in ratings before and after Covid-19.
+- However, we notice very low number of reviews when Covid has started (i.e. from Apr 2020 to Sept 2021).
 - The air lines can work on the quality of food and beverages and entertainment services provided to Economy and Preminum Economy classes to improve the ratings.
 - In addition the quality of all the services can be improved in Oceania countries (Australia & New Zealand).
 - More investigation can be perofrmed with respect to the differences in ratings by aircraft types.
