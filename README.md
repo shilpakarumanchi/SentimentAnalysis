@@ -9,6 +9,10 @@ I have obtained global customer review data for British Airways from 2016 to 202
 ## Tools Used
 - Python
 - Tableau
+
+## Executive Summary
+![Screenshot 2025-02-24 094205](https://github.com/user-attachments/assets/a2157714-28ac-45f1-b456-d95d96d08308)
+
   
 ## Data Cleaning
 - I have merged the review data set with another data set that had information on the Continents where each country belongs.
