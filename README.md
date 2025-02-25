@@ -1,4 +1,4 @@
-# Analysis of Customer Review data for British Airways
+# British Airways Customer Sentiment Analysis
 
 ## Overview
 British Airways is a UK based airline that has been established in 1974. It is the second largest UK based carrier based on fleet size and passenger number. In 2020, due to the crisis caused by the COVID-19 pandemic, British Airways had to reduce its 42,000-strong workforce by 12,000 jobs. According to the estimate by IAG, a parent company, it will take the air travel industry several years to return to previous performance and profitability levels. However, 2022 saw a dramatic increase in travel, and the company now faced a worker shortage, forcing it to cancel more than 1,500 flights. I wonder if this shortage in airline workforce had impacted the customer satisfaction. In addition, analysis of the customer reviews can guide the airlines to unerstand the sectors where they can improve the service.
@@ -41,17 +41,37 @@ Here we have global customer review data for British Airways from 2016 to 2023. 
 - **A380 and Boeing 747 models have the highest entertainment ratings (2.9 and 2.6, respectively).**  
 - **Smaller aircraft like A319 (-1.0) and A320 (-0.5) have significantly lower ratings**, suggesting that entertainment systems may be less advanced or unavailable in these models.  
 
-## Recommendations 
-1. **Improve In-flight Entertainment**: Given the **low entertainment rating (1.4)**, British Airlines should enhance content availability, upgrade screens, and ensure a seamless user experience across all aircraft.  
-2. **Address Regional Differences**: Identify specific **countries with low ratings** and improve entertainment offerings accordingly.  
-3. **Focus on Specific Aircraft Models**: Upgrade entertainment options in **A319, A320, and A321 aircraft**, as these have notably lower ratings.  
-4. **Monitor Trends & Customer Feedback**: Given the **decline in entertainment ratings in 2021 and 2023**, British Airlines should analyze customer complaints and conduct surveys to understand key issues.  
-- From the time series analysis, we can notice that there is no difference in ratings before and after Covid-19.
-- However, we notice very low number of reviews when Covid has started (i.e. from Apr 2020 to Sept 2021).
-- The air lines can work on the quality of food and beverages and entertainment services provided to Economy and Preminum Economy classes to improve the ratings.
-- In addition the quality of all the services can be improved in Oceania countries (Australia & New Zealand).
-- More investigation can be perofrmed with respect to the differences in ratings by aircraft types.
-Note:   - In statistics, there has to be a minimum sample size of 30 inorder to be able to make any inference. Hence, it is advisable to avoid inferences with resepct to Sounth America and Africa, due to very low sample size.
+## Recommendations ### **Recommendations for Improving British Airlines' Customer Experience**  
+
+#### **Enhance In-Flight Entertainment**  
+- Given the **low entertainment rating (1.4)**, we should focus on:  
+  - Expanding **content availability** to cater to diverse passenger preferences.  
+  - **Upgrading screens** and in-flight systems for a better viewing experience.  
+  - Ensuring a **seamless entertainment experience** across all aircraft models.  
+
+#### **Focus on Low-Rated Regions & Aircraft Models**  
+- **Oceania (Australia & New Zealand)** shows lower satisfaction across multiple services, indicating a need for **enhanced in-flight offerings**.
+- Aircraft such as **A319, A320, and A321** received lower entertainment ratings, indicating a need for Upgrading in-flight entertainment systems on these aircrafts.  
+
+#### **Improve Economy & Premium Economy Experience**  
+- Economy and Premium Economy passengers report **lower ratings** for food, beverages, and entertainment.  
+- The **quality and variety** of in-flight meals and refreshments can be enhanced.  
+- **seat comfort** and **entertainment options** can be tailored for these travelers.  
+
+#### **Monitor Trends & Customer Feedback**  
+- The **entertainment rating showed a decline in 2021 and 2023**.  
+- We should **Analyze customer complaints and conduct surveys** to pinpoint recurring issues and address service gaps proactively**.  
+
+#### **Considerations for Statistical Validity**  
+- The **number of reviews dropped significantly from April 2020 to September 2021**, likely due to reduced travel during COVID-19.  
+- When analyzing data by **region (South America & Africa)**, sample sizes are **too small (<30 reviews)** to draw meaningful conclusions.  
+- Future studies should **focus on regions with sufficient data** to make statistically valid inferences.  
+
+#### **Next Steps**  
+- Conduct further investigations into **entertainment differences by aircraft type** to identify targeted improvement opportunities.  
+- Implement **regional service enhancements** based on country-specific trends in **entertainment, food, and service quality ratings**.  
+- Use **customer sentiment analysis** to prioritize changes that will have the most impact on passenger experience.  
+
 
 
 
