@@ -14,58 +14,33 @@ The primary objective of this study is to assess whether the **airline’s workf
 ## Executive Summary
 ![image](https://github.com/user-attachments/assets/3432f2d8-90b3-4d7b-850e-2c1d382db6f9)
 
-- The **average overall rating** is **4.2**, suggesting a decent customer satisfaction level.  
-- **Entertainment has the lowest rating (1.4)**, indicating that passengers are significantly dissatisfied with in-flight entertainment.  
-- **Food beverages (2.4) and value for money (2.8)** also have relatively low ratings, showing room for improvement in these areas.
+- The **overall average rating is 2.9**, indicating **moderate satisfaction** among passengers.  
+- **Cabin staff service (3.3)** and **ground service (3.0)** received the highest ratings, showing that customer service on the ground and in-flight staff interactions are well-regarded.  
+- **Food & beverages (2.7) and in-flight entertainment (2.7)** received the lowest ratings, suggesting these areas require improvement.
   
-## Insights Deep Dive
-- A total of 1,324 reviews were collected from 56 countries over a seven-year period (March 2016 – October 2023).
-- Out of these 56 countries, 42 have fewer than 10 reviews, and 24 have fewer than 5 reviews, making it necessary to group them by continent for meaningful analysis.
-- The highest number of reviews came from Europe (1,009 reviews), followed by North America (168 reviews).
-- The lowest number of reviews came from South America (5 reviews) and Africa (22 reviews).
-- Asia recorded the highest overall rating (3.32), followed by Europe (2.92) and North America (2.88).
-- Oceania (Australia & New Zealand) had the lowest average rating (2.58), indicating a potential need for service improvements.
-- Among airline services, cabin staff received the highest ratings, followed by ground services.
-- Food and beverages received the lowest ratings, followed closely by in-flight entertainment.
-- The A380 aircraft had the highest average rating (3.2), while the A320 had the lowest (2.7).
-- First-class services consistently received higher ratings, while Economy Class (2.7) and Premium Economy (2.8) had the lowest satisfaction levels across all service categories.
-- The **average entertainment rating has fluctuated over time**, with notable declines around 2021 and 2023.  
-- The **heatmap suggests variations in entertainment ratings across different countries**, indicating that customer satisfaction is not uniform globally.  
-- **A380 and Boeing 747 models have the highest entertainment ratings (2.9 and 2.6, respectively).**  
+### **Insights Deep Dive**  
 
-## Recommendations 
+#### **Trends in Overall Ratings Over Time**  
+- The **average overall rating remained relatively stable**, but a slight **decline is noticeable in recent years (2021–2023)**.  
+- The **number of reviews peaked between 2017 and 2019** and saw a sharp decline during the COVID-19 pandemic (2020).  
+- The number of reviews has remained **comparatively lower post-pandemic (2021–2023)**, suggesting a potential **decrease in customer engagement** or a reduced passenger volume.  
 
-#### **Enhance In-Flight Entertainment**  
-- Given the **low entertainment rating (1.4)**, we should focus on:  
-  - Expanding **content availability** to cater to diverse passenger preferences.  
-  - **Upgrading screens** and in-flight systems for a better viewing experience.  
-  - Ensuring a **seamless entertainment experience** across all aircraft models.  
+#### **Regional Variations in Customer Satisfaction**  
+- **Asia recorded the highest average rating** (approximately **3.3**), indicating **better customer satisfaction in this region**.  
+- **North America (2.9), Africa (2.8), and South America (2.7)** received **lower ratings**, suggesting that British Airways should focus on improving services in these regions.  
+- The **lowest number of reviews came from South America (5) and Africa (22),** making it difficult to draw strong conclusions for these regions.  
 
-#### **Focus on Low-Rated Regions & Aircraft Models**  
-- **Oceania (Australia & New Zealand)** shows lower satisfaction across multiple services, indicating a need for **enhanced in-flight offerings**.
-- Aircraft such as **A319, A320, and A321** received lower entertainment ratings, indicating a need for Upgrading in-flight entertainment systems on these aircrafts.  
+#### **Impact of Aircraft Type on Ratings**  
+- **The A380 has the highest average rating**, with **124 reviews**, suggesting that larger aircraft provide a better passenger experience.  
+- **Boeing 777-200 and Boeing 747-400 also received relatively high ratings**, indicating a consistent performance for these models.  
+- **The “Others” category (583 reviews) had more mixed ratings**, requiring further analysis on specific aircraft types in this group.  
 
-#### **Improve Economy & Premium Economy Experience**  
-- Economy and Premium Economy passengers report **lower ratings** for food, beverages, and entertainment.  
-- The **quality and variety** of in-flight meals and refreshments can be enhanced.  
-- **seat comfort** and **entertainment options** can be tailored for these travelers.  
+### **Recommendations**  
 
-#### **Monitor Trends & Customer Feedback**  
-- The **entertainment rating showed a decline in 2021 and 2023**.  
-- We should **Analyze customer complaints and conduct surveys** to pinpoint recurring issues and address service gaps proactively**.  
+**Enhance In-Flight Entertainment & Food Quality**: Given the **low entertainment (2.7) and food (2.7) ratings**, British Airways should **upgrade content, improve screen quality, and offer better food options** to enhance the passenger experience.  
 
-#### **Considerations for Statistical Validity**  
-- The **number of reviews dropped significantly from April 2020 to September 2021**, likely due to reduced travel during COVID-19.  
-- When analyzing data by **region (South America & Africa)**, sample sizes are **too small (<30 reviews)** to draw meaningful conclusions.  
-- Future studies should **focus on regions with sufficient data** to make statistically valid inferences.  
+**Investigate the Declining Ratings in Recent Years**: Since ratings have shown a **slight downward trend from 2021–2023**, the airline should **analyze customer complaints and surveys** to identify pain points.  
 
-#### **Next Steps**  
-- Conduct further investigations into **entertainment differences by aircraft type** to identify targeted improvement opportunities.  
-- Implement **regional service enhancements** based on country-specific trends in **entertainment, food, and service quality ratings**.  
-- Use **customer sentiment analysis** to prioritize changes that will have the most impact on passenger experience.  
+**Improve Services in Lower-Rated Regions**: **North America, Africa, and South America have lower average ratings**, suggesting the need for **targeted improvements** in customer experience.  
 
-
-
-
-
-
+**Optimize Aircraft Services Based on Performance**: Since the **A380 and Boeing 747-400 received higher ratings**, British Airways could **analyze what makes these aircraft perform better and apply similar improvements** to lower-rated models.  
