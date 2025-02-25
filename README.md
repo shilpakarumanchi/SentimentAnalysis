@@ -12,7 +12,7 @@ The primary objective of this study is to assess whether the **airline’s workf
 - Interactive dashboard generated in Tableau can be found [here]([https://github.com/user-attachments/assets/1c6d6e94-16c1-4d8f-b21c-5457e1823a6e](https://public.tableau.com/app/profile/shilpa.ln.karumanchi/viz/BA_customerreviews/Dashboard32))
 
 ## Executive Summary
-![image](https://github.com/user-attachments/assets/2ff996b7-cc74-4c0f-950a-4bc283b4f559)
+![image](https://github.com/user-attachments/assets/3432f2d8-90b3-4d7b-850e-2c1d382db6f9)
 
 - The **average overall rating** is **4.2**, suggesting a decent customer satisfaction level.  
 - **Entertainment has the lowest rating (1.4)**, indicating that passengers are significantly dissatisfied with in-flight entertainment.  
