@@ -1,9 +1,11 @@
 # British Airways Customer Sentiment Analysis
 
 ## Overview
-British Airways is a UK based airline that has been established in 1974. It is the second largest UK based carrier based on fleet size and passenger number. In 2020, due to the crisis caused by the COVID-19 pandemic, British Airways had to reduce its 42,000-strong workforce by 12,000 jobs. According to the estimate by IAG, a parent company, it will take the air travel industry several years to return to previous performance and profitability levels. However, 2022 saw a dramatic increase in travel, and the company now faced a worker shortage, forcing it to cancel more than 1,500 flights. I wonder if this shortage in airline workforce had impacted the customer satisfaction. In addition, analysis of the customer reviews can guide the airlines to unerstand the sectors where they can improve the service.
- 
-Here we have global customer review data for British Airways from 2016 to 2023.  Passengers have rated six different services provided by the airline. This includes Ground and Cabin staff, Entertainemnt, Food, Value for money and Seat Comfort. A score of 1-5 has been provided for each of these services. We also have information on the departure Country, Seat type, aircraft model along with many other information for each of the reviews.
+British Airways, a UK-based airline established in 1974, faced significant challenges due to the COVID-19 pandemic in 2020. As a result of the crisis, the airline reduced its workforce from 42,000 employees by 12,000 jobs. However, with the sharp rebound in travel demand in 2022, British Airways encountered a labor shortage, leading to the cancellation of over 1,500 flights.  
+
+This project analyzes **global customer review data for British Airways from 2016 to 2023**. Passengers have rated six key services: **Ground and Cabin Staff, Entertainment, Food, Value for Money, and Seat Comfort**, assigning each a score from **1 to 5**. Additionally, the dataset includes details such as **departure country, seat type, aircraft model**, and other relevant factors for each review.  
+
+The primary objective of this study is to assess whether the **airline’s workforce shortage impacted customer satisfaction**. By analyzing customer reviews, British Airways can gain valuable insights into **service gaps and areas for improvement** to enhance the overall passenger experience.
 
 ## Data Processing
 - Python code used to clean the inconsistencies and  to derive data insights can be found [here](https://github.com/shilpakarumanchi/python/blob/main/BA_cleaning.ipynb)
