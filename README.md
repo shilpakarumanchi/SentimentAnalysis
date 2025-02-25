@@ -41,7 +41,7 @@ Here we have global customer review data for British Airways from 2016 to 2023. 
 - **A380 and Boeing 747 models have the highest entertainment ratings (2.9 and 2.6, respectively).**  
 - **Smaller aircraft like A319 (-1.0) and A320 (-0.5) have significantly lower ratings**, suggesting that entertainment systems may be less advanced or unavailable in these models.  
 
-## Recommendations ### **Recommendations for Improving British Airlines' Customer Experience**  
+## Recommendations 
 
 #### **Enhance In-Flight Entertainment**  
 - Given the **low entertainment rating (1.4)**, we should focus on:  
