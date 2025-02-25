@@ -17,7 +17,7 @@ Here we have global customer review data for British Airways from 2016 to 2023. 
 - **Food beverages (2.4) and value for money (2.8)** also have relatively low ratings, showing room for improvement in these areas.
   
 ## Date Deep Dive
-- - There are a total of 1324 reviews collected from 56 Countries, duirng a period of 7 years starting from March 2016 to October 2023.
+- There are a total of 1324 reviews collected from 56 Countries, duirng a period of 7 years starting from March 2016 to October 2023.
 - Among the 56 Countries, 42 Countries have <10 reviews & 24 Countries have <5 reviews. Hence, I have grouped the Countries by Continent.
 - Highest number of reviews were provided from Europe (1009 reviews) followed by North America (168 reviews).
 - Lowest number of reviews were provided from South America  (5 reviews) followed by Africa (22 reviews). 
