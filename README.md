@@ -9,7 +9,7 @@ The primary objective of this study is to assess whether the **airline’s workf
 
 ## Data Processing
 - Python code used to clean the inconsistencies and  to derive data insights can be found [here](https://github.com/shilpakarumanchi/python/blob/main/BA_cleaning.ipynb)
-- Interactive dashboard generated in Tableau can be found [here]([https://github.com/user-attachments/assets/1c6d6e94-16c1-4d8f-b21c-5457e1823a6e](https://public.tableau.com/app/profile/shilpa.ln.karumanchi/viz/BA_customerreviews/Dashboard32))
+- Interactive dashboard generated in Tableau can be found [here](https://public.tableau.com/app/profile/shilpa.ln.karumanchi/viz/BA_customerreviews/Dashboard32)
 
 ## Executive Summary
 ![image](https://github.com/user-attachments/assets/3432f2d8-90b3-4d7b-850e-2c1d382db6f9)
