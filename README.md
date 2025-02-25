@@ -9,10 +9,10 @@ The primary objective of this study is to assess whether the **airline’s workf
 
 ## Data Processing
 - Python code used to clean the inconsistencies and  to derive data insights can be found [here](https://github.com/shilpakarumanchi/python/blob/main/BA_cleaning.ipynb)
-- Interactive dashboard generated in Tableau can be found [here](https://public.tableau.com/app/profile/shilpa.ln.karumanchi/viz/BA_customerreviews/Dashboard32?publish=yes)
+- Interactive dashboard generated in Tableau can be found [here]([https://github.com/user-attachments/assets/1c6d6e94-16c1-4d8f-b21c-5457e1823a6e](https://public.tableau.com/app/profile/shilpa.ln.karumanchi/viz/BA_customerreviews/Dashboard32))
 
 ## Executive Summary
-![Screenshot 2025-02-24 094205](https://github.com/user-attachments/assets/a2157714-28ac-45f1-b456-d95d96d08308)
+![image](https://github.com/user-attachments/assets/2ff996b7-cc74-4c0f-950a-4bc283b4f559)
 
 - The **average overall rating** is **4.2**, suggesting a decent customer satisfaction level.  
 - **Entertainment has the lowest rating (1.4)**, indicating that passengers are significantly dissatisfied with in-flight entertainment.  
