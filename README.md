@@ -25,7 +25,7 @@ The primary objective of this study is to assess whether the **airline’s workf
 - The **number of reviews peaked between 2017 and 2019** and saw a sharp decline during the COVID-19 pandemic (2020).  
 - The number of reviews has remained **comparatively lower post-pandemic (2021–2023)**, suggesting a potential **decrease in customer engagement** or a reduced passenger volume.  
 
-#### **Regional Variations in Customer Satisfaction**  
+#### **By Region**  
 ![image](https://github.com/user-attachments/assets/0f1fb4d4-6577-430c-8956-5e8c3d57046f)
 ![image](https://github.com/user-attachments/assets/d52e79cf-c7d4-44d1-9f12-b1efc9db49ec)
 
@@ -34,7 +34,7 @@ The primary objective of this study is to assess whether the **airline’s workf
 - **North America (2.9), Africa (2.8), and South America (2.7)** received **lower ratings**, suggesting that British Airways should focus on improving services in these regions.  
 - The **lowest number of reviews came from South America (5) and Africa (22),** making it difficult to draw strong conclusions for these regions.  
 
-### **Ratings by Seat Type**  
+### **By Seat Type**  
 ![image](https://github.com/user-attachments/assets/c374acc7-2510-4103-bda7-895b27abc11a)
 
 **First Class**  
@@ -51,12 +51,7 @@ The primary objective of this study is to assess whether the **airline’s workf
    - **Entertainment (2.63) and food (2.39) are particularly poor**, highlighting areas for improvement.  
    - **Cabin staff rating (3.15) remains relatively strong, showing that customer service is still a positive factor.**  
 
-### **Recommendations for Improvement**  
-- **Enhance Economy Class amenities**, particularly **food and entertainment**, to improve customer experience.  
-- **Leverage Business Class strengths** by **improving entertainment offerings**, making it more competitive with Premium Economy.  
-- **Maintain high standards in First Class** while identifying key differentiators that contribute to its success.  
-
-#### **Impact of Aircraft Type on Ratings**  
+#### **By Aircraft Type**  
 - **The A380 has the highest average rating**, with **124 reviews**, suggesting that larger aircraft provide a better passenger experience.  
 - **Boeing 777-200 and Boeing 747-400 also received relatively high ratings**, indicating a consistent performance for these models.  
 - **The “Others” category (583 reviews) had more mixed ratings**, requiring further analysis on specific aircraft types in this group.  
@@ -70,3 +65,7 @@ The primary objective of this study is to assess whether the **airline’s workf
 **Improve Services in Lower-Rated Regions**: **North America, Africa, and South America have lower average ratings**, suggesting the need for **targeted improvements** in customer experience.  
 
 **Optimize Aircraft Services Based on Performance**: Since the **A380 and Boeing 747-400 received higher ratings**, British Airways could **analyze what makes these aircraft perform better and apply similar improvements** to lower-rated models.  
+
+- **Enhance Economy Class amenities**, particularly **food and entertainment**, to improve customer experience.  
+- **Leverage Business Class strengths** by **improving entertainment offerings**, making it more competitive with Premium Economy.  
+- **Maintain high standards in First Class** while identifying key differentiators that contribute to its success.  
