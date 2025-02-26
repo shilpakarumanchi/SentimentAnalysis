@@ -20,7 +20,7 @@ The primary objective of this study is to assess whether the **airline’s workf
   
 ## Insights Deep Dive 
 
-#### **Trends in Overall Ratings Over Time**  
+#### **Time Trends**  
 - The **average overall rating remained relatively stable**, but a slight **decline is noticeable in recent years (2021–2023)**.  
 - The **number of reviews peaked between 2017 and 2019** and saw a sharp decline during the COVID-19 pandemic (2020).  
 - The number of reviews has remained **comparatively lower post-pandemic (2021–2023)**, suggesting a potential **decrease in customer engagement** or a reduced passenger volume.  
