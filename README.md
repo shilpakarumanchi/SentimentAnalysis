@@ -34,9 +34,29 @@ The primary objective of this study is to assess whether the **airline’s workf
 - **North America (2.9), Africa (2.8), and South America (2.7)** received **lower ratings**, suggesting that British Airways should focus on improving services in these regions.  
 - The **lowest number of reviews came from South America (5) and Africa (22),** making it difficult to draw strong conclusions for these regions.  
 
-#### **Impact of Aircraft Type on Ratings**  
+### **Ratings by Seat Type**  
 ![image](https://github.com/user-attachments/assets/c374acc7-2510-4103-bda7-895b27abc11a)
 
+**First Class**  
+   - **Highest average rating (3.28)** across all seat types.  
+   - **Best ratings for seat comfort (3.57), cabin staff service (3.85), and food & beverages (3.07)**, indicating a premium experience.  
+
+**Premium Economy vs. Business Class**  
+   - **Premium Economy (2.97) slightly outperforms Business Class (2.96)** in overall rating, despite lower food and cabin staff ratings.  
+   - **Business Class has better food ratings (2.92 vs. 2.61), but Premium Economy has better entertainment (2.83 vs. 2.75)**.  
+   - **Ground service is the same (3.22 for Premium Economy, 3.01 for Business Class), suggesting consistency in service quality.**
+     
+**Economy Class Receives the Lowest Ratings**  
+   - **Lowest overall rating (2.78), with the weakest scores in all categories.**  
+   - **Entertainment (2.63) and food (2.39) are particularly poor**, highlighting areas for improvement.  
+   - **Cabin staff rating (3.15) remains relatively strong, showing that customer service is still a positive factor.**  
+
+### **Recommendations for Improvement**  
+- **Enhance Economy Class amenities**, particularly **food and entertainment**, to improve customer experience.  
+- **Leverage Business Class strengths** by **improving entertainment offerings**, making it more competitive with Premium Economy.  
+- **Maintain high standards in First Class** while identifying key differentiators that contribute to its success.  
+
+#### **Impact of Aircraft Type on Ratings**  
 - **The A380 has the highest average rating**, with **124 reviews**, suggesting that larger aircraft provide a better passenger experience.  
 - **Boeing 777-200 and Boeing 747-400 also received relatively high ratings**, indicating a consistent performance for these models.  
 - **The “Others” category (583 reviews) had more mixed ratings**, requiring further analysis on specific aircraft types in this group.  
