@@ -18,14 +18,14 @@ The primary objective of this study is to assess whether the **airline’s workf
 - **Cabin staff service (3.3)** and **ground service (3.0)** received the highest ratings, showing that customer service on the ground and in-flight staff interactions are well-regarded.  
 - **Food & beverages (2.7) and in-flight entertainment (2.7)** received the lowest ratings, suggesting these areas require improvement.
   
-### **Insights Deep Dive**  
+## Insights Deep Dive 
 
 #### **Trends in Overall Ratings Over Time**  
 - The **average overall rating remained relatively stable**, but a slight **decline is noticeable in recent years (2021–2023)**.  
 - The **number of reviews peaked between 2017 and 2019** and saw a sharp decline during the COVID-19 pandemic (2020).  
 - The number of reviews has remained **comparatively lower post-pandemic (2021–2023)**, suggesting a potential **decrease in customer engagement** or a reduced passenger volume.  
 
-#### **By Region**  
+### **By Region**  
 ![image](https://github.com/user-attachments/assets/d52e79cf-c7d4-44d1-9f12-b1efc9db49ec)
 
 - **Asia recorded the highest average rating** (approximately **3.3**), indicating **better customer satisfaction in this region**.  
@@ -34,22 +34,16 @@ The primary objective of this study is to assess whether the **airline’s workf
 
 ### **By Seat Type**  
 ![image](https://github.com/user-attachments/assets/c374acc7-2510-4103-bda7-895b27abc11a)
+- **Highest average rating (3.28)** across all seat types.  
+- **Best ratings for seat comfort (3.57), cabin staff service (3.85), and food & beverages (3.07)**, indicating a premium experience.  
+- **Premium Economy (2.97) slightly outperforms Business Class (2.96)** in overall rating, despite lower food and cabin staff ratings.  
+- **Business Class has better food ratings (2.92 vs. 2.61), but Premium Economy has better entertainment (2.83 vs. 2.75)**.  
+- **Ground service is the same (3.22 for Premium Economy, 3.01 for Business Class), suggesting consistency in service quality.**
+- **Lowest overall rating (2.78), with the weakest scores in all categories.**  
+- **Entertainment (2.63) and food (2.39) are particularly poor**, highlighting areas for improvement.  
+- **Cabin staff rating (3.15) remains relatively strong, showing that customer service is still a positive factor.**  
 
-**First Class**  
-   - **Highest average rating (3.28)** across all seat types.  
-   - **Best ratings for seat comfort (3.57), cabin staff service (3.85), and food & beverages (3.07)**, indicating a premium experience.  
-
-**Premium Economy vs. Business Class**  
-   - **Premium Economy (2.97) slightly outperforms Business Class (2.96)** in overall rating, despite lower food and cabin staff ratings.  
-   - **Business Class has better food ratings (2.92 vs. 2.61), but Premium Economy has better entertainment (2.83 vs. 2.75)**.  
-   - **Ground service is the same (3.22 for Premium Economy, 3.01 for Business Class), suggesting consistency in service quality.**
-     
-**Economy Class Receives the Lowest Ratings**  
-   - **Lowest overall rating (2.78), with the weakest scores in all categories.**  
-   - **Entertainment (2.63) and food (2.39) are particularly poor**, highlighting areas for improvement.  
-   - **Cabin staff rating (3.15) remains relatively strong, showing that customer service is still a positive factor.**  
-
-#### **By Aircraft Type**  
+### **By Aircraft Model**  
 - **The A380 has the highest average rating**, with **124 reviews**, suggesting that larger aircraft provide a better passenger experience.  
 - **Boeing 777-200 and Boeing 747-400 also received relatively high ratings**, indicating a consistent performance for these models.  
 - **The “Others” category (583 reviews) had more mixed ratings**, requiring further analysis on specific aircraft types in this group.  
