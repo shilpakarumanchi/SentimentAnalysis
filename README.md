@@ -35,6 +35,8 @@ The primary objective of this study is to assess whether the **airline’s workf
 - The **lowest number of reviews came from South America (5) and Africa (22),** making it difficult to draw strong conclusions for these regions.  
 
 #### **Impact of Aircraft Type on Ratings**  
+![image](https://github.com/user-attachments/assets/c374acc7-2510-4103-bda7-895b27abc11a)
+
 - **The A380 has the highest average rating**, with **124 reviews**, suggesting that larger aircraft provide a better passenger experience.  
 - **Boeing 777-200 and Boeing 747-400 also received relatively high ratings**, indicating a consistent performance for these models.  
 - **The “Others” category (583 reviews) had more mixed ratings**, requiring further analysis on specific aircraft types in this group.  
