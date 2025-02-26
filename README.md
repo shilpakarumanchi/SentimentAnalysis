@@ -27,6 +27,8 @@ The primary objective of this study is to assess whether the **airline’s workf
 
 #### **Regional Variations in Customer Satisfaction**  
 ![image](https://github.com/user-attachments/assets/0f1fb4d4-6577-430c-8956-5e8c3d57046f)
+![image](https://github.com/user-attachments/assets/d52e79cf-c7d4-44d1-9f12-b1efc9db49ec)
+
 
 - **Asia recorded the highest average rating** (approximately **3.3**), indicating **better customer satisfaction in this region**.  
 - **North America (2.9), Africa (2.8), and South America (2.7)** received **lower ratings**, suggesting that British Airways should focus on improving services in these regions.  
