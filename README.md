@@ -26,6 +26,8 @@ The primary objective of this study is to assess whether the **airline’s workf
 - The number of reviews has remained **comparatively lower post-pandemic (2021–2023)**, suggesting a potential **decrease in customer engagement** or a reduced passenger volume.  
 
 #### **Regional Variations in Customer Satisfaction**  
+![image](https://github.com/user-attachments/assets/0f1fb4d4-6577-430c-8956-5e8c3d57046f)
+
 - **Asia recorded the highest average rating** (approximately **3.3**), indicating **better customer satisfaction in this region**.  
 - **North America (2.9), Africa (2.8), and South America (2.7)** received **lower ratings**, suggesting that British Airways should focus on improving services in these regions.  
 - The **lowest number of reviews came from South America (5) and Africa (22),** making it difficult to draw strong conclusions for these regions.  
