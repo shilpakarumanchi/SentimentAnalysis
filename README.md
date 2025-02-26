@@ -8,7 +8,7 @@ This project analyzes **global customer review data for British Airways from 201
 The primary objective of this study is to assess whether the **airline’s workforce shortage impacted customer satisfaction**. By analyzing customer reviews, British Airways can gain valuable insights into **service gaps and areas for improvement** to enhance the overall passenger experience.
 
 ## Data Processing
-- Python code used to clean the inconsistencies and  to derive data insights can be found [here](https://github.com/shilpakarumanchi/python/blob/main/BA_cleaning.ipynb)
+- Python code used to clean the data inconsistencies and  to derive data insights can be found [here](https://github.com/shilpakarumanchi/python/blob/main/BA_cleaning.ipynb)
 - Interactive dashboard generated in Tableau can be found [here](https://public.tableau.com/app/profile/shilpa.ln.karumanchi/viz/BA_customerreviews/Dashboard32)
 
 ## Executive Summary
