@@ -1,11 +1,11 @@
-# British Airways Customer Sentiment Analysis
+# Equadorian Airways Customer Sentiment Analysis
 
 ## Overview
-British Airways, a UK-based airline established in 1974, faced significant challenges due to the COVID-19 pandemic in 2020. As a result of the crisis, the airline reduced its workforce from 42,000 employees by 12,000 jobs. However, with the sharp rebound in travel demand in 2022, British Airways encountered a labor shortage, leading to the cancellation of over 1,500 flights.  
+Equadorian Airways, a European-based airline established in 1974, faced significant challenges due to the COVID-19 pandemic in 2020. As a result of the crisis, the airline reduced its workforce from 42,000 employees by 12,000 jobs. However, with the sharp rebound in travel demand in 2022, Equadorian Airways encountered a labor shortage, leading to the cancellation of over 1,500 flights.  
 
-This project analyzes **global customer review data for British Airways from 2016 to 2023**. Passengers have rated six key services: **Ground and Cabin Staff, Entertainment, Food, Value for Money, and Seat Comfort**, assigning each a score from **1 to 5**. Additionally, the dataset includes details such as **departure country, seat type, aircraft model**, and other relevant factors for each review.  
+This project analyzes **global customer review data for Equadorian Airways from 2016 to 2023**. Passengers have rated six key services: **Ground and Cabin Staff, Entertainment, Food, Value for Money, and Seat Comfort**, assigning each a score from **1 to 5**. Additionally, the dataset includes details such as **departure country, seat type, aircraft model**, and other relevant factors for each review.  
 
-The primary objective of this study is to assess whether the **airline’s workforce shortage impacted customer satisfaction**. By analyzing customer reviews, British Airways can gain valuable insights into **service gaps and areas for improvement** to enhance the overall passenger experience.
+The primary objective of this study is to assess whether the **airline’s workforce shortage impacted customer satisfaction**. By analyzing customer reviews, Equadorian Airways can gain valuable insights into **service gaps and areas for improvement** to enhance the overall passenger experience.
 
 ## Data Processing
 - Python code used to clean the data inconsistencies and  to derive data insights can be found [here](https://github.com/shilpakarumanchi/python/blob/main/BA_cleaning.ipynb)
@@ -29,7 +29,7 @@ The primary objective of this study is to assess whether the **airline’s workf
 ![image](https://github.com/user-attachments/assets/d52e79cf-c7d4-44d1-9f12-b1efc9db49ec)
 
 - **Asia recorded the highest average rating** (approximately **3.3**), indicating **better customer satisfaction in this region**.  
-- **North America (2.9), Africa (2.8), and South America (2.7)** received **lower ratings**, suggesting that British Airways should focus on improving services in these regions.  
+- **North America (2.9), Africa (2.8), and South America (2.7)** received **lower ratings**, suggesting that Equadorian Airways should focus on improving services in these regions.  
 - The **lowest number of reviews came from South America (5) and Africa (22),** making it difficult to draw strong conclusions for these regions and hence are removed from the analysis. 
 
 ### **By Seat Type**  
@@ -50,13 +50,13 @@ The primary objective of this study is to assess whether the **airline’s workf
 
 ### **Recommendations**  
 
-**Enhance In-Flight Entertainment & Food Quality**: Given the **low entertainment (2.7) and food (2.7) ratings**, British Airways should **upgrade content, improve screen quality, and offer better food options** to enhance the passenger experience.  
+**Enhance In-Flight Entertainment & Food Quality**: Given the **low entertainment (2.7) and food (2.7) ratings**, Equadorian Airways should **upgrade content, improve screen quality, and offer better food options** to enhance the passenger experience.  
 
 **Investigate the Declining Ratings in Recent Years**: Since ratings have shown a **slight downward trend from 2021–2023**, the airline should **analyze customer complaints and surveys** to identify pain points.  
 
 **Improve Services in Lower-Rated Regions**: **North America, Africa, and South America have lower average ratings**, suggesting the need for **targeted improvements** in customer experience.  
 
-**Optimize Aircraft Services Based on Performance**: Since the **A380 and Boeing 747-400 received higher ratings**, British Airways could **analyze what makes these aircraft perform better and apply similar improvements** to lower-rated models.  
+**Optimize Aircraft Services Based on Performance**: Since the **A380 and Boeing 747-400 received higher ratings**, Equadorian Airways could **analyze what makes these aircraft perform better and apply similar improvements** to lower-rated models.  
 
 - **Enhance Economy Class amenities**, particularly **food and entertainment**, to improve customer experience.  
 - **Leverage Business Class strengths** by **improving entertainment offerings**, making it more competitive with Premium Economy.  
