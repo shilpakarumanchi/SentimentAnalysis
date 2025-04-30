@@ -12,7 +12,8 @@ The primary objective of this study is to assess whether the **airline’s workf
 - Interactive dashboard generated in Tableau can be found [here](https://public.tableau.com/app/profile/shilpa.ln.karumanchi/viz/BA_customerreviews/Dashboard32)
 
 ## Executive Summary
-![image](https://github.com/user-attachments/assets/3432f2d8-90b3-4d7b-850e-2c1d382db6f9)
+![Screenshot 2025-04-30 143529](https://github.com/user-attachments/assets/8f4494d4-35d0-4d4a-9b1e-9746e314b78c)
+
 
 - The **overall average rating is 2.9**, indicating **moderate satisfaction** among passengers.  
 - **Cabin staff service (3.3)** and **ground service (3.0)** received the highest ratings, showing that customer service on the ground and in-flight staff interactions are well-regarded.  
