@@ -1,4 +1,4 @@
-# Customer Sentiment Analysis - Equadorian Airways 
+# Customer Sentiment Analysis - Equadorian Airways Ratings
 
 ## Overview
 Equadorian Airways, a European-based airline established in 1974, faced significant challenges due to the COVID-19 pandemic in 2020. As a result of the crisis, the airline reduced its workforce from 42,000 employees by 12,000 jobs. However, with the sharp rebound in travel demand in 2022, Equadorian Airways encountered a labor shortage, leading to the cancellation of over 1,500 flights.  
